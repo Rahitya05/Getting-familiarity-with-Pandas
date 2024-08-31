@@ -12,4 +12,8 @@ This repository provides a comprehensive introduction to Pandas, a powerful libr
 - **Data Analysis**: Generating summary statistics, grouping data, and performing aggregations.
 - **Advanced Manipulation**: Merging, joining, and concatenating DataFrames, along with handling complex data structures.
 
+## Check out the Pandas.ipynb file provided for the full report.
 
+### Contact:
+#### Name: Rahitya Pentakota
+#### Email: pentakotarahitya05@gmail.com
